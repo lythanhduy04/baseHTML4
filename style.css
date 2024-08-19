@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.menu-bar {
+  display: flex;
+  padding: 18px 165px;
+  align-self: center;
+}
+
+.menu-list {
+  list-style-type: none;
+  text-align: center;
+}
+.menu-list {
+  color: #a72e2e;
+  display: inline-block;
+  width: 120px;
+  height: 40px;
+  line-height: 40px;
+  margin-left: -5px;
+}
